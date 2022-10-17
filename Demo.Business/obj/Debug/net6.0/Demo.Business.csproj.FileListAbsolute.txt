@@ -1,0 +1,15 @@
+E:\Demo.Services\Demo.Business\bin\Debug\net6.0\Demo.Business.deps.json
+E:\Demo.Services\Demo.Business\bin\Debug\net6.0\Demo.Business.dll
+E:\Demo.Services\Demo.Business\bin\Debug\net6.0\Demo.Business.pdb
+E:\Demo.Services\Demo.Business\bin\Debug\net6.0\Demo.Model.dll
+E:\Demo.Services\Demo.Business\bin\Debug\net6.0\Demo.Model.pdb
+E:\Demo.Services\Demo.Business\obj\Debug\net6.0\Demo.Business.csproj.AssemblyReference.cache
+E:\Demo.Services\Demo.Business\obj\Debug\net6.0\Demo.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\Demo.Services\Demo.Business\obj\Debug\net6.0\Demo.Business.AssemblyInfoInputs.cache
+E:\Demo.Services\Demo.Business\obj\Debug\net6.0\Demo.Business.AssemblyInfo.cs
+E:\Demo.Services\Demo.Business\obj\Debug\net6.0\Demo.Business.csproj.CoreCompileInputs.cache
+E:\Demo.Services\Demo.Business\obj\Debug\net6.0\Demo.Business.csproj.CopyComplete
+E:\Demo.Services\Demo.Business\obj\Debug\net6.0\Demo.Business.dll
+E:\Demo.Services\Demo.Business\obj\Debug\net6.0\refint\Demo.Business.dll
+E:\Demo.Services\Demo.Business\obj\Debug\net6.0\Demo.Business.pdb
+E:\Demo.Services\Demo.Business\obj\Debug\net6.0\ref\Demo.Business.dll
